@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Adheethi K Binu 👋
 
-<!--
-**adheethii/adheethii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist & ML Engineer • Fresher • Open to Opportunities**
 
-Here are some ideas to get you started:
+I'm passionate about turning raw data into meaningful insights and building intelligent systems. I work across the full ML pipeline — from EDA and feature engineering to deploying models with Streamlit and tracking experiments with MLflow. Recently diving deep into Generative AI, RAG pipelines, and Agentic AI using LangChain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Programming & Databases**
+`Python` `SQL`
+
+**Data Analysis**
+`EDA` `Feature Engineering` `Data Cleaning` `Hypothesis Testing`
+
+**Machine Learning**
+`Classification` `Regression` `Scikit-learn` `Cross-Validation` `SMOTE` `Model Evaluation`
+
+**Generative AI**
+`RAG` `LLMs` `Prompt Engineering` `Vector Embeddings` `Semantic Search`
+
+**Agentic AI & Frameworks**
+`LangChain` `Ollama` `Agents` `Chain Orchestration` `Memory`
+
+**Libraries**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `TensorFlow` `PyTorch` `OpenCV` `FAISS`
+
+**Visualization & BI**
+`Power BI` `DAX` `Matplotlib` `Seaborn`
+
+**Deployment & MLOps**
+`Streamlit` `MLflow`
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/adheethikbinu)
+- 🐙 [GitHub](https://github.com/adheethii)
+- 📧 adheethii@gmail.com
+
+---
+
+- 🌱 Currently learning: Advanced LangChain Agents & MLOps best practices
+- 💼 Open to: Data Science / ML / AI internships and full-time roles
