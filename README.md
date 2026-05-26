@@ -54,9 +54,7 @@ I'm passionate about turning raw data into meaningful insights and building inte
 
 ## 📊 GitHub Stats
 
-![Adheethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adheethii&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adheethii&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=adheethii&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 - 🌱 Currently learning: Advanced LangChain Agents & MLOps best practices
