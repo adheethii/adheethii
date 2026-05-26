@@ -53,7 +53,6 @@ I'm passionate about turning raw data into meaningful insights and building inte
 ---
 
 ## 📊 GitHub Activity
-![Profile Views](https://komarev.com/ghpvc/?username=adheethii&color=blue&style=flat)
 
 - 🔭 20+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Data Analytics
