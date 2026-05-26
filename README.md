@@ -2,6 +2,8 @@
 
 **Aspiring Data Scientist & ML Engineer • Fresher • Open to Opportunities**
 
+![Profile Views](https://komarev.com/ghpvc/?username=adheethii&color=blue&style=flat)
+
 I'm passionate about turning raw data into meaningful insights and building intelligent systems. I work across the full ML pipeline — from EDA and feature engineering to deploying models with Streamlit and tracking experiments with MLflow. Recently diving deep into Generative AI, RAG pipelines, and Agentic AI using LangChain.
 
 ---
