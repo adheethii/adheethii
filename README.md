@@ -52,7 +52,12 @@ I'm passionate about turning raw data into meaningful insights and building inte
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adheethii&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Activity
+![Profile Views](https://komarev.com/ghpvc/?username=adheethii&color=blue&style=flat)
+
+- 🔭 20+ contributions across AI, ML & Data Science projects
+- 📌 4 public projects — RAG, Computer Vision, ML, Data Analytics
+- 🌱 Actively building and committing
 ---
 
 - 🌱 Currently learning: Advanced LangChain Agents & MLOps best practices
