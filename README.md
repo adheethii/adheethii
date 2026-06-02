@@ -54,7 +54,7 @@ I'm passionate about turning raw data into meaningful insights and building inte
 
 ## 📊 GitHub Activity
 
-- 🔭 20+ contributions across AI, ML & Data Science projects
+- 🔭 55+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Data Analytics
 - 🌱 Actively building and committing
 ---
