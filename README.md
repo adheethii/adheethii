@@ -23,7 +23,7 @@
         <tr><td>🎓</td><td><b>Education</b></td><td>BSc Mathematics, Kerala 🇮🇳</td></tr>
         <tr><td>💼</td><td><b>Role</b></td><td>AI & ML Engineer · Data Scientist</td></tr>
         <tr><td>🌱</td><td><b>Learning</b></td><td>Prompt Engineering & LangChain Agents</td></tr>
-        <tr><td>💡</td><td><b>Open To</b></td><td>AI / ML / Data Science roles & internships</td></tr>
+        <tr><td>💡</td><td><b>Open To</b></td><td>Full-time AI / ML / Data Science roles</td></tr>
         <tr><td>😄</td><td><b>Fun Fact</b></td><td>Maths is just ML without the GPU!</td></tr>
       </table>
     </td>
@@ -49,6 +49,18 @@
 
 ---
 
+## 💼 Experience
+
+**Data Scientist Intern** @ Luminar Technolab, Kochi
+`Jun 2025 – Feb 2026`
+
+- Built and evaluated ML models achieving **85%+ accuracy** on classification and regression tasks using Scikit-Learn
+- Developed **Power BI dashboards** to visualize insights and support business decision-making
+- Applied feature engineering, EDA, and statistical analysis to improve model performance
+- Implemented model evaluation with accuracy, precision, recall, and F1-score metrics
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -56,7 +68,7 @@
 **🤖 LLM & Prompt Engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-grey?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
@@ -82,7 +94,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Experience
 
 <table>
   <tr>
@@ -98,7 +110,7 @@
     </td>
     <td valign="top" width="50%">
       <h3>🩺 MediCore AI Hospital System</h3>
-      <p>Designed and built an AI-powered hospital reception system with real-time face recognition for patient identity verification, automated visit logging, and admin analytics dashboard.</p>
+      <p>Designed and built an AI-powered hospital reception system with real-time face recognition for patient identity verification, automated visit logging, and admin analytics — reducing duplicate entries by ~30%.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
@@ -144,7 +156,7 @@
 - 🔭 60+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
 - 🌱 Currently learning: **Prompt Engineering** → [TIL learning journal](https://github.com/adheethii/Til)
-- 💼 Open to: Data Science / ML / AI internships and full-time roles
+- 💼 Open to: Full-time AI / ML / Data Science roles
 - 📚 Building in public — one commit every day
 
 ---
