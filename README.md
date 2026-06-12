@@ -146,7 +146,7 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-60%2B-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-70%2B-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
 ![TIL Notes](https://img.shields.io/badge/TIL%20Notes-11-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
