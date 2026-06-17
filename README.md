@@ -153,7 +153,7 @@
 
 </div>
 
-- 🔭 80+ contributions across AI, ML & Data Science projects
+- 🔭 100+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
 - 🌱 Currently learning: **Prompt Engineering** → [TIL learning journal](https://github.com/adheethii/Til)
 - 💼 Open to: Full-time AI / ML / Data Science roles
