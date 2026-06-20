@@ -22,7 +22,7 @@
       <table>
         <tr><td>🎓</td><td><b>Education</b></td><td>BSc Mathematics, Kerala 🇮🇳</td></tr>
         <tr><td>💼</td><td><b>Role</b></td><td>AI & ML Engineer · Data Scientist</td></tr>
-        <tr><td>🌱</td><td><b>Learning</b></td><td>Prompt Engineering & LangChain Agents</td></tr>
+        <tr><td>🌱</td><td><b>Learning</b></td><td>Prompt Engineering & APIs</td></tr>
         <tr><td>💡</td><td><b>Open To</b></td><td>Full-time AI / ML / Data Science roles</td></tr>
         <tr><td>😄</td><td><b>Fun Fact</b></td><td>Maths is just ML without the GPU!</td></tr>
       </table>
@@ -44,6 +44,7 @@
 ## 🎯 Current Focus
 
 - 🔬 Deepening knowledge in **Prompt Engineering** & LLM applications
+- 🌐 Learning **REST APIs & FastAPI** for ML model deployment
 - 🏗️ Building production-ready RAG pipelines with LangChain & Ollama
 - 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til)
 
@@ -68,7 +69,7 @@
 **🤖 LLM & Prompt Engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-grey?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
@@ -146,16 +147,18 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-100%2B-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-114-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
-![TIL Notes](https://img.shields.io/badge/TIL%20Notes-11-orange?style=for-the-badge)
+![TIL Notes](https://img.shields.io/badge/TIL%20Notes-20%2B-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
+
+![Snake animation](https://raw.githubusercontent.com/adheethii/adheethii/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-- 🔭 100+ contributions across AI, ML & Data Science projects
+- 🔭 114 contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
-- 🌱 Currently learning: **Prompt Engineering** → [TIL learning journal](https://github.com/adheethii/Til)
+- 🌱 Currently learning: **Prompt Engineering & REST APIs** → [TIL learning journal](https://github.com/adheethii/Til)
 - 💼 Open to: Full-time AI / ML / Data Science roles
 - 📚 Building in public — one commit every day
 
