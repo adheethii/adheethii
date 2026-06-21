@@ -62,6 +62,15 @@
 
 ---
 
+## 🏅 Certifications
+
+| Certificate | Issuer | Link |
+|-------------|---------|------|
+| Python Data Science with ML, AI & Power BI | NCTT | [View](https://www.linkedin.com/posts/adheethikbinu_datascience-machinelearning-python-activity-7434528294097702912-JoUg?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAExOjUABTccAG1hLmBcTfLKMB1l2oMPRlQI&utm_campaign=copy_link)|
+| Python (Basics) | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" height="18"> | [View](https://www.hackerrank.com/certificates/3a225f970158) |
+| SQL and Relational Databases 101 | <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white" height="18"> | [View](https://courses.cognitiveclass.ai/certificates/ff6443baa7c94f9ea677d575833d13f7) |
+
+---
 ## 🛠️ Tech Stack
 
 <div align="center">
