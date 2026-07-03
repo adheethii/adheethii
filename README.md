@@ -156,7 +156,7 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-177-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-194-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
 ![TIL Notes](https://img.shields.io/badge/TIL%20Notes-20%2B-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
@@ -165,7 +165,7 @@
 
 </div>
 
-- 🔭 177 contributions across AI, ML & Data Science projects
+- 🔭 194 contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
 - 🌱 Currently learning: **Prompt Engineering & REST APIs** → [TIL learning journal](https://github.com/adheethii/Til)
 - 💼 Open to: Full-time AI / ML / Data Science roles
