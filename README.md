@@ -22,7 +22,7 @@
       <table>
         <tr><td>🎓</td><td><b>Education</b></td><td>BSc Mathematics, Kerala 🇮🇳</td></tr>
         <tr><td>💼</td><td><b>Role</b></td><td>AI & ML Engineer · Data Scientist</td></tr>
-        <tr><td>🌱</td><td><b>Learning</b></td><td>Prompt Engineering & APIs</td></tr>
+        <tr><td>🌱</td><td><b>Learning</b></td><td>LangGraph · Docker · Git Advanced</td></tr>
         <tr><td>💡</td><td><b>Open To</b></td><td>Full-time AI / ML / Data Science roles</td></tr>
         <tr><td>😄</td><td><b>Fun Fact</b></td><td>Maths is just ML without the GPU!</td></tr>
       </table>
@@ -43,10 +43,10 @@
 
 ## 🎯 Current Focus
 
-- 🔬 Deepening knowledge in **Prompt Engineering** & LLM applications
-- 🌐 Learning **REST APIs & FastAPI** for ML model deployment
-- 🏗️ Building production-ready RAG pipelines with LangChain & Ollama
-- 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til)
+- 🔬 Deepening knowledge in **LangGraph** & multi-agent workflows
+- 🐳 Learning **Docker** for ML model deployment
+- 🌿 Practising **DSA** daily for technical interviews
+- 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til) (76+ notes)
 
 ---
 
@@ -62,15 +62,6 @@
 
 ---
 
-## 🏅 Certifications
-
-| Certificate | Issuer | Link |
-|-------------|---------|------|
-| Python Data Science with ML, AI & Power BI | NCTT | [View](https://www.linkedin.com/posts/adheethikbinu_datascience-machinelearning-python-activity-7434528294097702912-JoUg?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAExOjUABTccAG1hLmBcTfLKMB1l2oMPRlQI&utm_campaign=copy_link)|
-| Python (Basics) | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" height="18"> | [View](https://www.hackerrank.com/certificates/3a225f970158) |
-| SQL and Relational Databases 101 | <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white" height="18"> | [View](https://courses.cognitiveclass.ai/certificates/ff6443baa7c94f9ea677d575833d13f7) |
-
----
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -95,9 +86,9 @@
 **⚙️ Visualization & Tools**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -152,24 +143,36 @@
 
 ---
 
+## 🏅 Certifications
+
+| Certificate | Issuer | Link |
+|-------------|--------|------|
+| Python Data Science with ML, AI & Power BI | NCTT | — |
+| Python (Basics) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | [View](https://www.hackerrank.com/certificates/3a225f970158) |
+| SQL and Relational Databases 101 | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | [View](https://courses.cognitiveclass.ai/certificates/ff6443baa7c94f9ea677d575833d13f7) |
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-194-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-200%2B-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
-![TIL Notes](https://img.shields.io/badge/TIL%20Notes-20%2B-orange?style=for-the-badge)
+![TIL Notes](https://img.shields.io/badge/TIL%20Notes-76%2B-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
 
 ![Snake animation](https://raw.githubusercontent.com/adheethii/adheethii/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-- 🔭 194 contributions across AI, ML & Data Science projects
+- 🔭 200+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
-- 🌱 Currently learning: **Prompt Engineering & REST APIs** → [TIL learning journal](https://github.com/adheethii/Til)
-- 💼 Open to: Full-time AI / ML / Data Science roles
-- 📚 Building in public — one commit every day
+- 🌱 Currently learning: **LangGraph · Docker · Git Advanced**
+- 💼 Open to: Full-time AI / ML / Data Science roles — anywhere!
+- 📚 Building in public — one commit every day → [TIL journal](https://github.com/adheethii/Til)
+- 🗺️ Career roadmap → [ai-ml-job-roadmap](https://github.com/adheethii/ai-ml-job-roadmap)
+- 💡 DSA practice → [dsa-practice](https://github.com/adheethii/dsa-practice)
 
 ---
 
