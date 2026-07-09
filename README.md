@@ -46,7 +46,7 @@
 - 🔬 Deepening knowledge in **LangGraph** & multi-agent workflows
 - 🐳 Learning **Docker** for ML model deployment
 - 🌿 Practising **DSA** daily for technical interviews
-- 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til) (76+ notes)
+- 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til) (80+ notes)
 
 ---
 
@@ -159,7 +159,7 @@
 
 ![Contributions](https://img.shields.io/badge/Contributions-200%2B-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
-![TIL Notes](https://img.shields.io/badge/TIL%20Notes-76%2B-orange?style=for-the-badge)
+![TIL Notes](https://img.shields.io/badge/TIL%20Notes-80%2B-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
 
 ![Snake animation](https://raw.githubusercontent.com/adheethii/adheethii/output/github-contribution-grid-snake-dark.svg)
