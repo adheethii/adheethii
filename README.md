@@ -157,7 +157,7 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-200%2B-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-280%2B-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
 ![TIL Notes](https://img.shields.io/badge/TIL%20Notes-80%2B-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
@@ -166,7 +166,7 @@
 
 </div>
 
-- 🔭 200+ contributions across AI, ML & Data Science projects
+- 🔭 280+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
 - 🌱 Currently learning: **LangGraph · Docker · Git Advanced**
 - 💼 Open to: Full-time AI / ML / Data Science roles — anywhere!
