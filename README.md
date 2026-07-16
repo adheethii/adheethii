@@ -160,6 +160,7 @@
 ![Contributions](https://img.shields.io/badge/Contributions-280%2B-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
 ![TIL Notes](https://img.shields.io/badge/TIL%20Notes-80%2B-orange?style=for-the-badge)
+![DSA Practice](https://img.shields.io/badge/DSA%20Practies-30%2B-red?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Daily-purple?style=for-the-badge)
 
 ![Snake animation](https://raw.githubusercontent.com/adheethii/adheethii/output/github-contribution-grid-snake-dark.svg)
