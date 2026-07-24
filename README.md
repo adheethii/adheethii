@@ -167,7 +167,7 @@
 
 </div>
 
-- 🔭 280+ contributions across AI, ML & Data Science projects
+- 🔭 300+ contributions across AI, ML & Data Science projects
 - 📌 4 public projects — RAG, Computer Vision, ML, Analytics
 - 🌱 Currently learning: **LangGraph · Docker · Git Advanced**
 - 💼 Open to: Full-time AI / ML / Data Science roles — anywhere!
