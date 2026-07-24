@@ -46,7 +46,7 @@
 - 🔬 Deepening knowledge in **LangGraph** & multi-agent workflows
 - 🐳 Learning **Docker** for ML model deployment
 - 🌿 Practising **DSA** daily for technical interviews
-- 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til) (80+ notes)
+- 📚 Learning in public → [TIL journal](https://github.com/adheethii/Til) (100+ notes)
 
 ---
 
