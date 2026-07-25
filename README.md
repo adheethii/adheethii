@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adheethi K Binu👋
+# Hi, I'm Adheethi K Binu 👋
 
 ### 🤖 AI & ML Engineer · Data Scientist · Prompt Engineer
 
