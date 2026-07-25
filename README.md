@@ -181,5 +181,4 @@
 
 *`while alive: learn(); build(); commit();`*
 
-
 </div>
