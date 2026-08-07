@@ -157,7 +157,7 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-300%2B-brightgreen?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-400%2B-brightgreen?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-4-blue?style=for-the-badge)
 ![TIL Notes](https://img.shields.io/badge/TIL%20Notes-100%2B-orange?style=for-the-badge)
 ![DSA Practice](https://img.shields.io/badge/DSA%20Practies-30%2B-red?style=for-the-badge)
